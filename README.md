@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AllanVerse irl:  V H Allan Sujith Kumar
 - 👀 I’m interested in ... Web Developement
 - 🌱 I’m currently learning ... Front-end web Developement
-- 💞️ I’m looking to collaborate on ... Web Dvlpr
+- 💞️ I’m looking to collaborate on ... Full Stack Web Developer
 - 📫 How to reach me ... @allxn_verxe >>> personal instagram handle
 
 <!---
